@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 tigres 7 campeonatos
 rayador 3.5 y 4 copas pistón
+=======
+Tigres campeon 7 veces
+>>>>>>> 24fa5f2504a86a44eb1dd2a412b6fa35176f8787
